@@ -1,0 +1,9 @@
+requests
+bs4
+numpy
+pandas
+mysqlclient
+sqlalchemy
+pymongo==2.8.1
+sckikit-learn==0.19.1
+scipy
