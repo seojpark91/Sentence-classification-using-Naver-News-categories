@@ -18,9 +18,9 @@ scikit-learn==0.19.1
 scipy
 ```
 
+## Contents:
+- make_model.ipynb - make a sentence classifier with multinomial naive bayes model and finding a smoothing parameter 
+- find_variable.py - full code described in make_model.ipynb
 
-### make_model.ipynb - make a sentence classifier with multinomial naive bayes model and finding a smoothing parameter 
-### find_variable.py - full code described in make_model.ipynb
-
-### Side assignments:
-- `keyword_class.ipynb` and `keywords.ipynb`shows step by step guide to save real time top Naver top 20 keywords and store them to MongoDB and mySQL using `pymongo`and `sqlalchemy``
+## Side assignments:
+- `keyword_class.ipynb` and `keywords.ipynb`shows step by step guide to save real time top Naver top 20 keywords and store them to MongoDB and mySQL using `pymongo`and `sqlalchemy`
