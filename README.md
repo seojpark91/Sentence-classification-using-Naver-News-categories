@@ -16,6 +16,7 @@ sqlalchemy
 pymongo==2.8.1
 scikit-learn==0.19.1
 scipy
+flask
 ```
 
 ## Contents:
